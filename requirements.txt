@@ -1,2 +1,2 @@
-django==1.9.10
+django==2.2.24
 safety==0.2.1
